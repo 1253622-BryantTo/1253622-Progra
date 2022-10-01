@@ -1,0 +1,8 @@
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\bin\Debug\L8_1253622_P2.exe.config
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\bin\Debug\L8_1253622_P2.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\bin\Debug\L8_1253622_P2.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\obj\Debug\L8_1253622_P2.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\obj\Debug\L8_1253622_P2.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\obj\Debug\L8_1253622_P2.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\obj\Debug\L8_1253622_P2.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\L8_1253622_P2\L8_1253622_P2\obj\Debug\L8_1253622_P2.pdb
