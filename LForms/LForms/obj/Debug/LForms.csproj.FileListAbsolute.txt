@@ -1,0 +1,11 @@
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\bin\Debug\LForms.exe.config
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\bin\Debug\LForms.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\bin\Debug\LForms.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.Form1.resources
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.Properties.Resources.resources
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.csproj.GenerateResource.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\LForms\LForms\obj\Debug\LForms.pdb
