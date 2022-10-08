@@ -1,10 +1,8 @@
 ﻿// Bryant Tó y Sebastian Echeverria
-int suma, multipicacion, potencia, N1, N2;
 
-Console.WriteLine("Ingrese dos numero");
-N1 = int.Parse(Console.ReadLine());
-N2 = int.Parse(Console.ReadLine());
-
+Console.WriteLine("El residual de 25 / 3 = ", Residuo(25, 3));
+Console.WriteLine(Suma(25, 3));
+Console.ReadKey();
 int Suma(int Valor1, int Valor2)
 {
     return Valor1 + Valor2;
@@ -30,4 +28,20 @@ int Potencia(int Base, int Exponente)
         
     }
     return Contador;
+}
+
+int Resta(int Valor1, int Valor2)
+{
+
+    return Valor1-Valor2;
+}
+int Residuo(int Divisor,int Dividendo)
+{
+    
+    int Resultado = Resta(Divisor, Dividendo);
+    while (Resultado >= 0)
+    {
+        Resultado = Resta(Resultado, Dividendo);
+    }
+    return Resultado;
 }

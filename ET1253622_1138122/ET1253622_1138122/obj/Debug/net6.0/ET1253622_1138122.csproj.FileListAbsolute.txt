@@ -1,0 +1,15 @@
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\bin\Debug\net6.0\ET1253622_1138122.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\bin\Debug\net6.0\ET1253622_1138122.deps.json
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\bin\Debug\net6.0\ET1253622_1138122.runtimeconfig.json
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\bin\Debug\net6.0\ET1253622_1138122.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\bin\Debug\net6.0\ET1253622_1138122.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.AssemblyInfoInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.AssemblyInfo.cs
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\refint\ET1253622_1138122.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ET1253622_1138122.genruntimeconfig.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\ET1253622_1138122\ET1253622_1138122\obj\Debug\net6.0\ref\ET1253622_1138122.dll

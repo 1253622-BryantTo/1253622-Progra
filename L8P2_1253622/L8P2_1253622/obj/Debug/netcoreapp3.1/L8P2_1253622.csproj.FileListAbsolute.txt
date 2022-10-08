@@ -1,0 +1,14 @@
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\bin\Debug\netcoreapp3.1\L8P2_1253622.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\bin\Debug\netcoreapp3.1\L8P2_1253622.deps.json
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\bin\Debug\netcoreapp3.1\L8P2_1253622.runtimeconfig.json
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\bin\Debug\netcoreapp3.1\L8P2_1253622.runtimeconfig.dev.json
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\bin\Debug\netcoreapp3.1\L8P2_1253622.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\bin\Debug\netcoreapp3.1\L8P2_1253622.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.AssemblyInfoInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.AssemblyInfo.cs
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\L8P2_1253622\L8P2_1253622\obj\Debug\netcoreapp3.1\L8P2_1253622.genruntimeconfig.cache
