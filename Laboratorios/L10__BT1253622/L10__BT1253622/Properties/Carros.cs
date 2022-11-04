@@ -12,6 +12,8 @@ namespace L10__BT1253622.Properties
         private int Modelo = 0;
         private double Precio = 0;
         private string Descripccion = "";
+        private double Iva = 0;
+
 
         public void SetMarca(string Marca)
         {
@@ -29,6 +31,11 @@ namespace L10__BT1253622.Properties
         public void SetPrecio(double Precio)
         {
             this.Precio = Precio;
+        }
+
+        public void SetIva(double Iva)
+        {
+            this.Iva = Iva;
         }
 
         public void SetDescripccion(string Descripccion)
@@ -55,5 +62,11 @@ namespace L10__BT1253622.Properties
         {
             return Descripccion;
         }
+        
+        public double LeerPrecioFinal()
+        {
+            return this.Precio + (Iva * Precio);
+        }
     }
 }
+    
