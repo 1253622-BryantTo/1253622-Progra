@@ -1,0 +1,16 @@
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\bin\Debug\L9_BT_1253622.exe.config
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\bin\Debug\L9_BT_1253622.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\bin\Debug\L9_BT_1253622.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\bin\Debug\L9_BT_1253622.exe.config
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\bin\Debug\L9_BT_1253622.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\bin\Debug\L9_BT_1253622.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\Laboratorios\L9_BT_1253622\L9_BT_1253622\obj\Debug\L9_BT_1253622.pdb

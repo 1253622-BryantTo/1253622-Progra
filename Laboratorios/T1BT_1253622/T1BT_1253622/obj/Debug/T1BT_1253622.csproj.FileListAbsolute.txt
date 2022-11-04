@@ -1,0 +1,8 @@
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\bin\Debug\T1BT_1253622.exe.config
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\bin\Debug\T1BT_1253622.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\bin\Debug\T1BT_1253622.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\obj\Debug\T1BT_1253622.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\obj\Debug\T1BT_1253622.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\obj\Debug\T1BT_1253622.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\obj\Debug\T1BT_1253622.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\T1BT_1253622\T1BT_1253622\obj\Debug\T1BT_1253622.pdb

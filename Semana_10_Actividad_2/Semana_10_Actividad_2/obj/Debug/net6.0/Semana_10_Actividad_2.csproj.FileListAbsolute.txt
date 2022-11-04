@@ -1,0 +1,15 @@
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\bin\Debug\net6.0\Semana_10_Actividad_2.exe
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\bin\Debug\net6.0\Semana_10_Actividad_2.deps.json
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\bin\Debug\net6.0\Semana_10_Actividad_2.runtimeconfig.json
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\bin\Debug\net6.0\Semana_10_Actividad_2.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\bin\Debug\net6.0\Semana_10_Actividad_2.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.csproj.AssemblyReference.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.AssemblyInfoInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.AssemblyInfo.cs
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.csproj.CoreCompileInputs.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\refint\Semana_10_Actividad_2.dll
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.pdb
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\Semana_10_Actividad_2.genruntimeconfig.cache
+D:\Usuario\Documents\GitHub\1253622-Progra\Semana_10_Actividad_2\Semana_10_Actividad_2\obj\Debug\net6.0\ref\Semana_10_Actividad_2.dll
